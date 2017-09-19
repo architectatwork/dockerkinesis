@@ -6,3 +6,6 @@ Docker instance created will be running on Ubuntu latest version.
 You can parameterize the docker instance, please check the below link for more details about kinesalite
 
 Reference: https://github.com/mhart/kinesalite
+
+Docker image can be found at
+https://hub.docker.com/r/hireshoban/kinesis/
